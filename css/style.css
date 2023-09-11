@@ -11,7 +11,6 @@ header{
     background-image: url(../img/pattern.png);
     background-repeat: repeat;
 }
-
 /* classe per il logo */
 .logo{
     margin-top: 80px;
@@ -19,88 +18,75 @@ header{
     width: 250px;
     height: 100px;
 }
-
 /* classe per il titolo della pagina */
 .titolo{
     margin: auto;
     font-size: 80px;
 }
-
 /* classe per i dettagli sotto il titolo */
 .dettagli{
     color: #888888;
     margin: auto;
 }
-
 /* classe per il nome dell'autore */
 .dettagli .nome-autore{
     color: #4ab9ea;
 }
-
 /* classe per le informazioni sotto le immagini */
 .info-immagini{
     font-size: 10px;
     margin: auto;
 }
-
 /* classe per tutto il testo dlela pagina  */
 .testo{
     font-size: 30px;
 }
-
 /* classe per colorare solo alcune parti di testo in giallo */
 .yellow{
     background-color: #ffff00;
 }
-
 /* classe per la lista */
 .lista{
     font-size: 30px;
 }
-
 /* classe per la tabella */
 .tabella{
     border-collapse: collapse;
     font-size: 30px;
     text-align: left;
 }
-
 /* classe per colorare l'intestazione della tabella */
 .intestazione-tabella{
     background-color:#20a9e5;
 }
-
 /* classe per colorare di bianco il campo dell'intestazione della tabella e per allargare la cella */
 .bianco{
     color: #f3fbfe;
     width: 33%;
 }
-
 /* classe per colorare solo alcune righe della tabella */
 .riga-colorata-tabella{
     background-color: #b1e5f2;
 }
-
 /* classe per gli interessi del footer */
 .interessi{
     color: #8b8b8b;
     font-size: 20px;
 }
-
 /*classe per la prima foto del footer  */
 .foto1{
-    height: 208px;
-    width: 312px;
     background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 208px;
 }
-
 /*classe per la seconda foto del footer  */
 .foto2{
-    height: 208px;
-    width: 312px;
     background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 208px;
 }
-
 /*classe per il nome delle foto del footer  */
 .nome-foto{
     color: #ffffff;
