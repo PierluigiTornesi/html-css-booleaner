@@ -63,3 +63,25 @@ header{
 .riga-blu-tabella{
     background-color: aquamarine;
 }
+
+.interessi{
+    color: gray;
+    font-size: 20px;
+}
+
+.foto1{
+    height: 208px;
+    width: 312px;
+    background-image: url(../img/monitor.jpg);
+}
+
+.foto2{
+    height: 208px;
+    width: 312px;
+    background-image: url(../img/graph.jpg);
+}
+
+.nome-foto{
+    color: white;
+    font-size: 25px;
+}
