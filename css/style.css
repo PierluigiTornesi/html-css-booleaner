@@ -12,3 +12,54 @@ header{
     width: 250px;
     height: 100px;
 }
+
+.titolo{
+    margin: auto;
+    font-size: 80px;
+}
+
+.dettagli{
+    color: gray;
+}
+
+.dettagli .nome-autore{
+    color: aqua;
+}
+
+.info-immagini{
+    font-size: 10px;
+    margin: auto;
+}
+
+.testo{
+    font-size: 30px;
+}
+
+.yellow{
+    background-color: yellow;
+}
+
+.lista{
+    font-size: 30px;
+}
+
+
+
+.tabella{
+    border-collapse: collapse;
+    font-size: 30px;
+    text-align: left;
+}
+
+.intestazione-tabella{
+    background-color: cyan;
+}
+
+.bianco{
+    color: white;
+    width: 33%;
+}
+
+.riga-blu-tabella{
+    background-color: aquamarine;
+}
